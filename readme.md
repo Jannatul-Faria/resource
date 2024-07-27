@@ -1,4 +1,4 @@
-[**Accessor-Mutator**](D:\Preparetion\Accessor-Mutator)
+[**Accessor-Mutator**](Preparetion\Accessor-Mutator)
 
 [**ACID-Properties**](D:\Preparetion\ACID-Properties)
 
