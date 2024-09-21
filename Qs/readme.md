@@ -120,11 +120,6 @@
 
 Remember, in addition to technical questions, interviewers might also ask about your problem-solving approach, teamwork skills, and how you handle challenges. Good luck with your interview! If you have any more questions or need further clarification on any topic, feel free to ask.
 
-https://lh3.googleusercontent.com/a/AGNmyxYHO_SfTKENGWg16EYxl_EtIMXxsMn_r6Adxk9n=s96-c
-
-**You**
-
-Sure, I can provide brief answers to each of the questions:
 
 1. **PHP Basics:**
     - **`==`** is the equality operator and checks if two values are equal, while **`===`** is the identity operator and checks if two values are equal and of the same type.
@@ -188,7 +183,7 @@ Sure, I can provide brief answers to each of the questions:
     - Explain the Laravel service container and its role in dependency injection.
         - The Laravel service container is a powerful tool for managing class dependencies and performing dependency injection. It automatically resolves and injects dependencies into classes, making it easier to manage dependencies and achieve loose coupling between components.
 
-Feel free to ask for more details on any of these questions, or if you have any specific topics you'd like to cover!
+
 
 ### **Here are some common PHP Object-Oriented Programming (OOP) interview questions for freshers, along with brief answers:**
 
