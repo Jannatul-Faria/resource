@@ -22,6 +22,4 @@
 
 [**Trait**](https://github.com/Jannatul-Faria/Preparetion/tree/79acb2f53f58b5ee6d6250291be823477c06f3df/Trait)
 
-
-
-<!-- [**Trait**](https://github.com/Jannatul-Faria/Preparetion/tree/79acb2f53f58b5ee6d6250291be823477c06f3df/Trait) -->
+[**Variable Scope in PHP Function**](https://github.com/Jannatul-Faria/resource/tree/afe5126dadf1e8375e55691cbe2ab9bb191121d7/Variable%20Scope%20in%20PHP%20Function)
